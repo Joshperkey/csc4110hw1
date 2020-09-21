@@ -1,3 +1,3 @@
 # Github and git conflict
-# csc4110hw1
+# Github and git
 Assignment 1 of CSC4110 Software Engineering
